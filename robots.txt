@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /scripts/
+
+Sitemap: https://architectstudio.ke/sitemap.xml
